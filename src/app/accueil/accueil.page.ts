@@ -14,7 +14,7 @@ export class AccueilPage implements OnInit {
   }
 
   toAbout(){
-    this.router.navigateByUrl('t1')
+    this.router.navigateByUrl('contact/info')
   }
 
 }
